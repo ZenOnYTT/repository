@@ -5,7 +5,7 @@ local gui_hide_button = {Enum.KeyCode.LeftControl, "h"}
 local plrs = game:GetService("Players")
 local lplr = game:GetService("Players").LocalPlayer
 local TeamBased = true ; local teambasedswitch = "o"
-local presskeytoaim = true; local aimkey = "e"
+local presskeytoaim = true; local aimkey = "q"
 aimbothider = false; aimbothiderspeed = .5
 local Aim_Assist = false ; Aim_Assist_Key = {Enum.KeyCode.LeftControl, "z"}
 local espupdatetime = 5; autoesp = false; local charmsesp = true
